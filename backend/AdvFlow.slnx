@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AdvFlow.API/AdvFlow.API.csproj" />
+  <Project Path="AdvFlow.Application/AdvFlow.Application.csproj" />
+  <Project Path="AdvFlow.Domain/AdvFlow.Domain.csproj" />
+  <Project Path="AdvFlow.Infrastructure/AdvFlow.Infrastructure.csproj" />
+  <Project Path="AdvFlow.Persistence/AdvFlow.Persistence.csproj" />
+</Solution>

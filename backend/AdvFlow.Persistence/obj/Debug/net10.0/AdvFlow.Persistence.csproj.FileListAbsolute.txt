@@ -1,0 +1,15 @@
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/bin/Debug/net10.0/AdvFlow.Persistence.deps.json
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/bin/Debug/net10.0/AdvFlow.Persistence.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/bin/Debug/net10.0/AdvFlow.Persistence.pdb
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/bin/Debug/net10.0/AdvFlow.Domain.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/bin/Debug/net10.0/AdvFlow.Domain.pdb
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.csproj.AssemblyReference.cache
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.AssemblyInfoInputs.cache
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.AssemblyInfo.cs
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.csproj.CoreCompileInputs.cache
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow..413AA01E.Up2Date
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/refint/AdvFlow.Persistence.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.pdb
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/ref/AdvFlow.Persistence.dll

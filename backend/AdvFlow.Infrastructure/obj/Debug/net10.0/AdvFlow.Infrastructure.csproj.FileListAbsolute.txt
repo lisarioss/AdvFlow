@@ -1,0 +1,17 @@
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/bin/Debug/net10.0/AdvFlow.Infrastructure.deps.json
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/bin/Debug/net10.0/AdvFlow.Infrastructure.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/bin/Debug/net10.0/AdvFlow.Infrastructure.pdb
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/bin/Debug/net10.0/AdvFlow.Application.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/bin/Debug/net10.0/AdvFlow.Domain.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/bin/Debug/net10.0/AdvFlow.Application.pdb
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/bin/Debug/net10.0/AdvFlow.Domain.pdb
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.csproj.AssemblyReference.cache
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.AssemblyInfoInputs.cache
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.AssemblyInfo.cs
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.csproj.CoreCompileInputs.cache
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow..27A0EEEB.Up2Date
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/refint/AdvFlow.Infrastructure.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.pdb
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/ref/AdvFlow.Infrastructure.dll

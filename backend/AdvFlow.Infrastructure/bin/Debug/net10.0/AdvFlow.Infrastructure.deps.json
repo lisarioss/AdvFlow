@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AdvFlow.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AdvFlow.Application": "1.0.0"
+        },
+        "runtime": {
+          "AdvFlow.Infrastructure.dll": {}
+        }
+      },
+      "AdvFlow.Application/1.0.0": {
+        "dependencies": {
+          "AdvFlow.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AdvFlow.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AdvFlow.Domain/1.0.0": {
+        "runtime": {
+          "AdvFlow.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvFlow.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvFlow.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvFlow.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

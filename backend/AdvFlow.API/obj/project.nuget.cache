@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "hKtf+AAt87w=",
+  "success": true,
+  "projectFilePath": "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.API/AdvFlow.API.csproj",
+  "expectedPackageFiles": [
+    "/home/lisa-rios/.nuget/packages/microsoft.aspnetcore.openapi/10.0.9/microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "/home/lisa-rios/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "O pacote 'Microsoft.OpenApi' 2.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.API/AdvFlow.API.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.API/AdvFlow.API.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
