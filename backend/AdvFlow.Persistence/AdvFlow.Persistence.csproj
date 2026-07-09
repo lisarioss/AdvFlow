@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AdvFlow.Domain\AdvFlow.Domain.csproj" />
+    <ProjectReference Include="..\AdvFlow.Application\AdvFlow.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

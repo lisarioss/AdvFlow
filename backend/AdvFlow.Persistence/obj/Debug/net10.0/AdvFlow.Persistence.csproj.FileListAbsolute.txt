@@ -16,3 +16,5 @@
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/bin/Debug/net10.0/AdvFlow.Persistence.runtimeconfig.json
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.sourcelink.json
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/obj/Debug/net10.0/AdvFlow.Persistence.genruntimeconfig.cache
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/bin/Debug/net10.0/AdvFlow.Application.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Persistence/bin/Debug/net10.0/AdvFlow.Application.pdb

@@ -1,18 +1,35 @@
 using Microsoft.EntityFrameworkCore;
 using AdvFlow.Persistence.Context;
+using AdvFlow.Application.Interfaces;
+using AdvFlow.Persistence.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Banco de Dados
+builder.Services.AddControllers();
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseNpgsql(
         builder.Configuration.GetConnectionString("DefaultConnection")
     ));
 
-// OpenAPI
+builder.Services.AddScoped<IClientRepository, ClientRepository>();
+
 builder.Services.AddOpenApi();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend", policy =>
+    {
+        policy
+            .AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
+
+app.UseCors("AllowFrontend");
 
 if (app.Environment.IsDevelopment())
 {
@@ -21,6 +38,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapGet("/", () => "AdvFlow API está funcionando!");
+app.MapControllers();
 
 app.Run();

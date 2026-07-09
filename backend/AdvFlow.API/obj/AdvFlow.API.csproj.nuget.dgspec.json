@@ -1547,6 +1547,9 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
+              "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Application/AdvFlow.Application.csproj": {
+                "projectPath": "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Application/AdvFlow.Application.csproj"
+              },
               "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Domain/AdvFlow.Domain.csproj": {
                 "projectPath": "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Domain/AdvFlow.Domain.csproj"
               }

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "AdvFlow.Persistence/1.0.0": {
         "dependencies": {
+          "AdvFlow.Application": "1.0.0",
           "AdvFlow.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "10.0.9",
           "Microsoft.EntityFrameworkCore.Design": "10.0.9",
@@ -594,6 +595,17 @@
           }
         }
       },
+      "AdvFlow.Application/1.0.0": {
+        "dependencies": {
+          "AdvFlow.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AdvFlow.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "AdvFlow.Domain/1.0.0": {
         "runtime": {
           "AdvFlow.Domain.dll": {
@@ -840,6 +852,11 @@
       "sha512": "sha512-aRZlojCCGEHDKqh43jaDgaVpYETsgd7Nx4g1zwLKMtv4iTo0627715ajEFNpEEBTgLmvZuv8K0EVxc3sM4NWJA==",
       "path": "system.composition.typedparts/9.0.0",
       "hashPath": "system.composition.typedparts.9.0.0.nupkg.sha512"
+    },
+    "AdvFlow.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "AdvFlow.Domain/1.0.0": {
       "type": "project",
