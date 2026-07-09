@@ -13,3 +13,4 @@
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Application/obj/Debug/net10.0/refint/AdvFlow.Application.dll
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Application/obj/Debug/net10.0/AdvFlow.Application.pdb
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Application/obj/Debug/net10.0/ref/AdvFlow.Application.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Application/obj/Debug/net10.0/AdvFlow.Application.sourcelink.json

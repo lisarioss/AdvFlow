@@ -15,3 +15,4 @@
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/refint/AdvFlow.Infrastructure.dll
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.pdb
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/ref/AdvFlow.Infrastructure.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/obj/Debug/net10.0/AdvFlow.Infrastructure.sourcelink.json

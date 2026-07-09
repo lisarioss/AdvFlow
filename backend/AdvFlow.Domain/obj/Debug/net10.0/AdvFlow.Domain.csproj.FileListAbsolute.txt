@@ -9,3 +9,4 @@
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Domain/obj/Debug/net10.0/refint/AdvFlow.Domain.dll
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Domain/obj/Debug/net10.0/AdvFlow.Domain.pdb
 /home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Domain/obj/Debug/net10.0/ref/AdvFlow.Domain.dll
+/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Domain/obj/Debug/net10.0/AdvFlow.Domain.sourcelink.json

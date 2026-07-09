@@ -8,12 +8,19 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.9">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.2" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\AdvFlow.Application\AdvFlow.Application.csproj" />
     <ProjectReference Include="..\AdvFlow.Infrastructure\AdvFlow.Infrastructure.csproj" />
     <ProjectReference Include="..\AdvFlow.Persistence\AdvFlow.Persistence.csproj" />
+    <ProjectReference Include="..\AdvFlow.Domain\AdvFlow.Domain.csproj" />
   </ItemGroup>
 
 </Project>

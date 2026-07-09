@@ -30,6 +30,9 @@
               "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Application/AdvFlow.Application.csproj": {
                 "projectPath": "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Application/AdvFlow.Application.csproj"
               },
+              "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Domain/AdvFlow.Domain.csproj": {
+                "projectPath": "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Domain/AdvFlow.Domain.csproj"
+              },
               "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/AdvFlow.Infrastructure.csproj": {
                 "projectPath": "/home/lisa-rios/Documentos/AdvFlow/backend/AdvFlow.Infrastructure/AdvFlow.Infrastructure.csproj"
               },
@@ -58,6 +61,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[10.0.2, )"
             }
           },
           "imports": [
@@ -1551,6 +1568,22 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
